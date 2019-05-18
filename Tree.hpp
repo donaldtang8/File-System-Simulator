@@ -1,7 +1,3 @@
-// Donald Tang and Tianwei Liu
-// dtang4
-// I pledge my honor I have abided by the Stevens Honor System.
-
 #ifndef _Tree_HPP_
 #define _Tree_HPP_
 
