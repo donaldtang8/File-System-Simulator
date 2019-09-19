@@ -11,7 +11,4 @@ The goal of the assignment is to emulate a file system.
 5) LDisk.hpp is the representation of disk memory, it is the container for the Disk linked list. The linked list itself is made of DNodes. DNodes have a start,end, and used bit so you can tell which addresses in memory are free.   
 
 ### How to run this program:
-Open up terminal and run the command "./test.sh" to run program with pre-defined arguments in test script.
-
-
-
+Open up terminal and run the command `./test.sh` to run program with pre-defined arguments in test script.
